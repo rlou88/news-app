@@ -1,6 +1,4 @@
-## News App
-
-Indian News
+# News App
 
 Responsive and mobile first news application for top news in India. Built with News API, React, Bootstrap, and Axios.
 
