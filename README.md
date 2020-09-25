@@ -6,6 +6,8 @@ Responsive and mobile first news application for top news in India. Built with N
 
 ## News App Screen Shot
 
+![Image of App](https://ibb.co/vmHc8pX)
+
 ## Installation and Setup Instructions
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.
