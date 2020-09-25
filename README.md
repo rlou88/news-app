@@ -24,4 +24,16 @@ To Visit App:
 
 `localhost:3000`
 
-## Deployment
+## API Key
+
+# Setup your API key
+
+1. Generate a free API key or use your API key from [News API](https://newsapi.org/)
+2. Go to `src` folder and then to `App.js` file
+3. Apply API key to the following line:
+
+```var url =
+      'http://newsapi.org/v2/top-headlines?' +
+      'country=in&' +
+      'apiKey=YOUR_API_KEY';
+```

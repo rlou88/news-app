@@ -12,8 +12,7 @@ class App extends React.Component {
     var url =
       'http://newsapi.org/v2/top-headlines?' +
       'country=in&' +
-      'apiKey=' +
-      process.env.REACT_APP_KEY;
+      'apiKey=YOUR_API_KEY';
     axios
       .get(url)
       .then((response) =>
