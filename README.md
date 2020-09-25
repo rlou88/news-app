@@ -32,7 +32,7 @@ To Visit App:
 
 ```
      var url =
-      'http://newsapi.org/v2/top-headlines?' +
-      'country=in&' +
-      'apiKey=YOUR_API_KEY';
+       'http://newsapi.org/v2/top-headlines?' +
+       'country=in&' +
+       'apiKey=YOUR_API_KEY';
 ```
